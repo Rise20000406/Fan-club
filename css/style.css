@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Light|Roboto");
+@import url("components/container.css");
+@import url("components/mvp.css");
+@import url("components/informations.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Roboto';
+	font-size: 15px;
+	margin: 0px;
+}	
+
+h1,h2,h3{
+	font-family: 'Light';
+	font-weight: bold;
+	color:rgb(84,38,131);
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: yellow;
+}
+
